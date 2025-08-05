@@ -18,5 +18,5 @@
 
 ### ✅ Certificates
 
-- [Introduction to C Certificate](https://github.com/rewatiraman01/5505892_Rewati-Raman/blob/main/C%20Programming%20Certificates/Introduction_to_C_Certificate.pdf)
-- [C Intermediate Certificate](https://github.com/rewatiraman01/5505892_Rewati-Raman/blob/main/C%20Programming%20Certificates/C_Intermediate_Certificate.pdf)
+- ![Introduction to C Certificate](https://github.com/rewatiraman01/5505892_Rewati-Raman/blob/main/C%20Programming%20Certificates/Introduction_to_C_Certificate/Screenshot%202025-08-05%20214519.png)
+- ![C Intermediate Certificate](https://github.com/rewatiraman01/5505892_Rewati-Raman/blob/main/C%20Programming%20Certificates/C_Intermediate_Certificate/Screenshot%202025-08-05%20214623.png)
